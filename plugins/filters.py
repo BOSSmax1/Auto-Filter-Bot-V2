@@ -2,7 +2,7 @@
 # -*- coding: utf-8 -*-
 # @trojanzhex
 
-
+import asyncio
 import re
 import pyrogram
 
@@ -28,7 +28,7 @@ BUTTONS = {}
  
 @Client.on_message(filters.group & filters.text)
 async def filter(client: Bot, message: Message):
-    if re.findall("((^\/|^,|^!|^\.|^[\U0001F600-\U000E007F]).*)", message.text):
+await asyncio.sleep(5)    if re.findall("((^\/|^,|^!|^\.|^[\U0001F600-\U000E007F]).*)", message.text):
         return
 
     if 2 < len(message.text) < 50:    
