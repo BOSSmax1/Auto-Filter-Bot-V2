@@ -28,7 +28,7 @@ BUTTONS = {}
  
 @Client.on_message(filters.group & filters.text)
 async def filter(client: Bot, message: Message):
-await asyncio.sleep(5)    if re.findall("((^\/|^,|^!|^\.|^[\U0001F600-\U000E007F]).*)", message.text):
+    if re.findall("((^\/|^,|^!|^\.|^[\U0001F600-\U000E007F]).*)", message.text):
         return
 
     if 2 < len(message.text) < 50:    
@@ -36,7 +36,7 @@ await asyncio.sleep(5)    if re.findall("((^\/|^,|^!|^\.|^[\U0001F600-\U000E007F
 
         group_id = message.chat.id
         name = message.text
-
+        await asyncio.sleep(5)
         filenames, links = await searchquery(group_id, name)
         if filenames and links:
             for filename, link in zip(filenames, links):
