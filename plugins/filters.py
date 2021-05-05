@@ -81,7 +81,9 @@ async def filter(client: Bot, message: Message):
                 f"<b> Here is the result for {message.text}</b>",
                 reply_markup=InlineKeyboardMarkup(buttons)
             )    
+        import asyncio
 
+         await asyncio.sleep(5)
 
 @Client.on_callback_query()
 async def cb_handler(client: Bot, query: CallbackQuery):
