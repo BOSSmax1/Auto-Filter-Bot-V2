@@ -11,7 +11,7 @@ JOIN MY GROUP FOR ALL TYPES OF MOVIES!🤩
 
 DON'T FORGET TO JOIN OUR CHANNEL!😜 
 
-For more JOIN <i>Cinema Hub™</i></b>"""
+For more Join <i>Cinema Hub™</i></b>"""
 
 
     HELP_MSG = """<b>How to use the bot??</b>
