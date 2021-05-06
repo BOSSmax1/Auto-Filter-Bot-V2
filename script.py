@@ -9,9 +9,9 @@ I AM A BOT SPECIALLY MADE FOR Cinema Hub™ 🤩
 
 JUST JOIN MY GROUP FOR MOVIES!😇
 
+DON'T FORGET TO JOIN MY CHANNEL!😜
 
-
-For more click <i>help</i></b>"""
+Cinema Hub™
 
 
     HELP_MSG = """<b>How to use the bot??</b>
