@@ -29,7 +29,7 @@
 
 
 #### HEY GUYS! I AM BOSS 😎 
-#### I AM A BOT SPECIALLY MADE FOR Cinema Hub™ is Version 2 of [JOIN OUR GROUP](https://t.me/cinemahub_boss)
+#### I AM A BOT SPECIALLY MADE FOR Cinema Hub™ is [JOIN OUR GROUP](https://t.me/cinemahub_boss)
 #### JOIN MY GROUP AND CHANNEL FOR MOVIES!
 
 ## How to use the bot
