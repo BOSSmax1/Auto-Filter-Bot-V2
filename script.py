@@ -3,13 +3,13 @@ class script(object):
 
     START_MSG = """ <b>Hi {}
 
-You can call this as an Auto Filter Bot if you like :D
+I AM BOSS! 😎  
 
-This is Version 2 of Auto Filter Bot
+I AM A BOT SPECIALLY MADE FOR Cinema Hub™ 🤩
 
-Bot gives button link to files in connected channels on query !
+JUST JOIN MY GROUP FOR MOVIES!😇
 
-No need to add filters for your files or movies from now on!
+
 
 For more click <i>help</i></b>"""
 
