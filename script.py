@@ -14,7 +14,7 @@ DON'T FORGET TO JOIN MY CHANNEL!😜
 Cinema Hub™
 
 
-    HELP_MSG = """<b>How to use the bot??</b>
+    
 
 <i>
 * Add bot to your group with admin rights.
