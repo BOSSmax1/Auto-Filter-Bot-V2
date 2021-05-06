@@ -75,9 +75,9 @@ async def filter(client: Bot, message: Message):
         buttons.append(
             [InlineKeyboardButton(text=f"📃 Pages 1/{data['total']}",callback_data="pages")]
         )
-        import asyncio
+        
 
-        await asyncio.sleep(5)
+        
         await message.reply_text(
                 f"<b> Here is the result for {message.text}</b>",
                 reply_markup=InlineKeyboardMarkup(buttons)
