@@ -28,9 +28,9 @@
 
 
 
-#### You can call this as an Auto Filter Bot if you like :D
-#### This is Version 2 of [Auto Filter Bot](https://github.com/TroJanzHEX/Auto-Filter-Bot)
-#### Bot simply search for the files from provided channel according to given query and gives link to those files as buttons!
+#### HEY GUYS! I AM BOSS 😎 
+#### I AM A BOT SPECIALLY MADE FOR Cinema Hub™ is Version 2 of [JOIN OUR GROUP](https://t.me/cinemahub_boss)
+#### JOIN MY GROUP AND CHANNEL FOR MOVIES!
 
 ## How to use the bot
 * Add bot to your group with admin rights.
