@@ -3,13 +3,13 @@ class script(object):
 
     START_MSG = """ <b>Hi {}
 
-I AM BOSS!
+I Am BOSS!
 
-A BOT SPECIALLY MADE FOR Cinema Hub™!😎 
+A Bot Specially Made For Cinema Hub™!😎 
 
-JOIN MY GROUP FOR ALL TYPES OF MOVIES!🤩
+Join My Group For All Types Of Movies!🤩
 
-DON'T FORGET TO JOIN OUR CHANNEL!😜 
+Don't Forget To Join Our Channel!😜 
 
 For more Join <i>Cinema Hub™</i></b>"""
 
