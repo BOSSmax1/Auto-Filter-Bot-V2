@@ -38,7 +38,7 @@ async def filter(client: Bot, message: Message):
         await asyncio.sleep(5)     
         filenames, text, links = await searchquery(group_id, name)
         if filenames & links:
-            for filename & link in zip(filenames, links):
+            for filename, link in zip(filenames, links):
                 btn.append(
                     [InlineKeyboardButton(text=f"{filename}",url=f"{link}")]
                 )
